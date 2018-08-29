@@ -1,2 +1,4 @@
 .tern-project
 .idea
+docker-compose.yml
+code
